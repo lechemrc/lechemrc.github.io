@@ -16,3 +16,7 @@ As far as I'm concerned, data that tells a story that anyone can understand is p
 I've been in Lambda's Data Science program for a month and a half now and it's been a ride, to say the least. It's hard. At times it's incredibly confusing. It's frustrating. But it's so incredibly satisfying all at once. I love the challenge. I love the insane amount of information I learn every single day. I love working through something and having that breakthrough that feels so, so good. I love it. 
 
 Who knows where this will take me, but I'm in it. 
+
+
+
+photo credit: Dirk Spijkers
