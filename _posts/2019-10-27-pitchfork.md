@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Machine Learning and Music. 
+title: <p style="color:orange">Machine Learning and Music.</p>
 image: /img/ryan-howerter-JXIFjYVbAS8-unsplash.jpg
 bigimg: /img/ryan-howerter-JXIFjYVbAS8-unsplash.jpg
 ---
