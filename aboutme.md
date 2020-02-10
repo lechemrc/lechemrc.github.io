@@ -1,7 +1,7 @@
 ---
 layout: page
-title: About me
-subtitle: Why you'd want to go on a date with me
+title: Rob LeCheminant
+subtitle: ... and how I learned to stop worrying and start analyzing. 
 ---
 
 My name is Inigo Montoya. I have the following qualities:
