@@ -26,7 +26,7 @@ It's been an absolute firehose of information in our Lambda education but set up
 
 I love data science. I love cleaning data. I love approaching tough subjects and finding potential answers and hints of correlation. I love using technology to make sound predictions. I love the potential and power that this field has and I have no intention of ever letting up. 
 
-{% highlight python linenos %}
+```
 import numpy as np
 import matplotlib.pyplot as plt
 
@@ -36,4 +36,4 @@ def graph(func, x_range):
    plt.plot(x, y)
 
 graph(lambda x: 100*(np.power(1.1, x)), (0,80))
-{% endhighlight %}
+```
