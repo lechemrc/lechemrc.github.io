@@ -19,4 +19,4 @@ Who knows where this will take me, but I'm in it.
 
 
 
-photo credit: Dirk Spijkers
+<sup><sub>photo credit: Dirk Spijkers</sup></sub>
