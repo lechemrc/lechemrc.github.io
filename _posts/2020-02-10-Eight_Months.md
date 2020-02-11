@@ -1,8 +1,8 @@
 ---
 layout: post
 title: <p style="color:orange">Eight Months</p>
-image: /img/clarisse_croset_unsplash.jpg
-bigimg: /img/clarisse_croset_unsplash.jpg
+image: /img/arif-wahid-y3FkHW1cyBE-unsplash.jpg
+bigimg: /img/arif-wahid-y3FkHW1cyBE-unsplash.jpg
 ---
 
 ## Rapid Growth Over a Short Period of Time
@@ -37,4 +37,4 @@ graph(lambda x: 100*(np.power(1.1, x)), (0,80))
 
 
 
-<sup><sub>photo credit: Clarisse Croset</sup></sub>
+<sup><sub>photo credit: Arif Wahid</sup></sub>
