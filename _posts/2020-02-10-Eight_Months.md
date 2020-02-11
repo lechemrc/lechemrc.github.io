@@ -2,10 +2,8 @@
 layout: post
 title: <p style="color:orange">Eight Months</p>
 subtitle: What Comes Next?
-gh-repo: daattali/beautiful-jekyll
-gh-badge: [star, fork, follow]
-tags: [test]
-comments: true
+image: "img/clarisse_croset_unsplash.jpg"
+tags: [coding, python, machine learning, lambda, code, data]
 ---
 
 ## Rapid Growth Over a Short Period of Time
