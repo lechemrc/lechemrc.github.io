@@ -5,7 +5,9 @@ image: /img/arif-wahid-y3FkHW1cyBE-unsplash.jpg
 bigimg: /img/arif-wahid-y3FkHW1cyBE-unsplash.jpg
 ---
 
-Over the last eight months I've been so immersed in coding and other projects that I've barely updated my blog and portfolio. In fact, it's been 4 months since I have. In my Lambda education we've gone quickly from using pandas and doing simple regressions and classfications, to using Neural Networks to classify and predict based on various sources of data. It's been a whirlwind, to say the least.
+It's hard to believe that it's been eight months.
+
+Over that time I've been so immersed in coding and other projects that I've barely updated my blog and portfolio. In fact, it's been 4 months since I have. In my Lambda education we've gone quickly from using pandas and doing simple regressions and classfications, to using Neural Networks to classify and predict based on various sources of data. It's been a whirlwind, to say the least.
 
 If I could sum up these last months in two words, it's these: _productive struggle_
 
