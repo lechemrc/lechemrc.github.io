@@ -12,4 +12,4 @@ Check it out here:
 <a href="https://towardsdatascience.com/can-we-predict-the-outcome-of-pitchfork-music-reviews-3b084d90c18f">https://towardsdatascience.com/can-we-predict-the-outcome-of-pitchfork-music-reviews-3b084d90c18f</a>
 
 
-photo credit: Ryan Howerter
+<sup><sub>photo credit: Ryan Howerter</sup></sub>
