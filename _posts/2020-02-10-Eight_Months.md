@@ -34,3 +34,7 @@ def graph(func, x_range):
 
 graph(lambda x: 100*(np.power(1.1, x)), (0,80))
 ```
+
+
+
+photo credit: Clarisse Croset
