@@ -1,6 +1,6 @@
 ---
 layout: post
-title: This is all new to me. 
+title: <p style="color:orange">This is all new to me.</p> 
 image: /img/sushobhan-badhai-LrPKL7jOldI-unsplash.jpg
 bigimg: /img/dirk-spijkers-TLoW0D_Lq58-unsplash.jpg
 ---
