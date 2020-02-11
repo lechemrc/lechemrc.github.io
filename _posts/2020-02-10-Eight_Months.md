@@ -2,6 +2,7 @@
 layout: post
 title: <p style="color:orange">Eight Months</p>
 image: "img/clarisse_croset_unsplash.jpg"
+bigimg: image: "img/clarisse_croset_unsplash.jpg"
 ---
 
 ## Rapid Growth Over a Short Period of Time
