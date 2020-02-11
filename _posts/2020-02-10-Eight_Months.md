@@ -17,7 +17,7 @@ When I code, I code for generalization, avoiding hard coding whenever I can. It'
 
 So far I have experience with:
 
-_Pandas, numpy, recursive functions, linear algebra, various regression and classification models (inluding random forests, xgboost, etc.), statistical analysis and application, sklearn pipelines, designing and deploying packages and libraries, kaggle competitions, SQL databases, supervised and unsupervised learning, natural language processing, productization and cloud deployment, and even keras and tensorflow at this point only 8 months into my education._
+_Pandas, numpy, recursive functions, linear algebra, various regression and classification models (inluding random forests, xgboost, etc.), statistical analysis and application, sklearn pipelines, designing and deploying packages and libraries, kaggle competitions, SQL databases, supervised and unsupervised learning, natural language processing, productization and cloud deployment, flask deployment, and even keras and tensorflow at this point only 8 months into my education._
 
 It's been an absolute firehose of information in our Lambda education but set up in a way that we could digest, practice, and repeat everything in a way that it sticks with us. At the very least, that at least how _I_ feel. Each new subject now has an air of familiarity. Each new subject is an exciting new process in understanding data, both big and small. Each new project is a thrilling new opportunity to build something useful and purposeful. Each new day is a new or deepened skill. 
 
