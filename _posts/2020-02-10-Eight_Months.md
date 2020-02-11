@@ -5,11 +5,9 @@ image: /img/arif-wahid-y3FkHW1cyBE-unsplash.jpg
 bigimg: /img/arif-wahid-y3FkHW1cyBE-unsplash.jpg
 ---
 
-## Rapid Growth Over a Short Period of Time
+Over the last eight months I've been so immersed in coding and other projects that I've barely updated my blog and portfolio. In fact, it's been 4 months since I have. In my Lambda education we've gone quickly from using pandas and doing simple regressions and classfications, to using Neural Networks to classify and predict based on various sources of data. It's been a whirlwind, to say the least.
 
-Over the last several months, I've been so immersed in coding and other projects that I've barely updated my blog and portfolio. In fact, it's been 4 months. In my Lambda education we've gone quickly from using pandas and doing simple regressions and classfications, to using Neural Networks to classify and predict based on various sources of data. 
-
-To sum up these months in two words, it's these: _productive struggle_
+If I could sum up these last months in two words, it's these: _productive struggle_
 
 I have made it a goal to never just seek the simple solution. Even if it means spending hours and hours just working through setting up a workable virtual environment, or trying to figure out the correct shape of the data to feed into a neural net, I work through problems, challenges, and bugs for purpose of learning, not accomplishing the code (those that's always a nice secondary achievement). For that reason, it's felt that my education has been exponential as opposed to logarithmic, a rapidly increasing trajectory upward in terms of understanding and skill acquisition.
 
