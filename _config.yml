@@ -22,6 +22,7 @@ description: Data Science Portfolio.
 navbar-links:
   About Me: "aboutme"
   Portfolio:
+    - Github: "https://github.com/lechemrc"
     - Toward Data Science Publication: "https://towardsdatascience.com/search?q=pitchfork"
     - Airbnb Host Pricing: "https://build-week-airbnb-optimal-price.github.io/Marketing-page/index.html"
     
