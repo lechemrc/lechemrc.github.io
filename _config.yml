@@ -23,7 +23,8 @@ navbar-links:
   About Me: "aboutme"
   Portfolio:
     - Github: "https://github.com/lechemrc"
-    - Toward Data Science Publication: "https://towardsdatascience.com/search?q=pitchfork"
+    - Toward Data Science - K Means: "https://towardsdatascience.com/k-means-without-libraries-python-feb3572e2eef#8646-25d4070add68"
+    - Toward Data Science - Pitchfork: "https://towardsdatascience.com/can-we-predict-the-outcome-of-pitchfork-music-reviews-3b084d90c18f"
     - Airbnb Host Pricing: "https://build-week-airbnb-optimal-price.github.io/Marketing-page/index.html"
     - Song Surfer: "https://front-end-six-green.now.sh/"
     - Epicentral.info: "http://epicentral.info/"
