@@ -1,8 +1,8 @@
 ---
 layout: post
 title: <p style="color:orange">A Long Overdue Update</p>
-image: /img/tucson.jpeg
-bigimg: /img/tucson.jpeg
+image: /img/tucson.jpg
+bigimg: /img/tucson.jpg
 ---
 
 <b>I</b> published an article detailing all the time between my last post and now... a necessary update. Check it out here:
