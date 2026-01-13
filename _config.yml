@@ -73,7 +73,7 @@ author:
 # You can reorder the items to define the link order.
 # If you want to add a new link that isn't here, you'll need to also edit the file _data/SocialNetworks.yml
 social-network-links:
-  rss: false
+  # rss: false
   email: "roblecheminant@gmail.com"
   facebook: rob.lecheminant
   github: lechemrc
@@ -81,7 +81,7 @@ social-network-links:
 #  reddit: yourname
   linkedin: robert-lecheminant-21315b60/
 #  xing: yourname
-  stackoverflow: "10992956/rob-lecheminant"
+  # stackoverflow: "10992956/rob-lecheminant"
 #  snapchat: deanat78
   instagram: lechemrc
 #  youtube: user/deanat78
