@@ -6,7 +6,9 @@ subtitle: or: How I Learned to Stop Worrying and Love AI/ML
 
 I’m Rob. I'm a data scientist, educator, and creative who took the long way to tech, and that path is my edge.
 
-I began by studying music and pivoted to Business. When I graduated, my wife became a teacher and I followed suit shortly after, working across elementary, middle, and high school on the Navajo Reservation in Monument Valley. Teaching math, business, and technology is where I discovered coding, and fell hard for it, and even helped bring it as an offering for students into the high school.
+I began by studying music and pivoted to Business. I then started working at a small start up where I worked through various positions getting to know the business and then created an entire department. The work I did there directly led to elite contracts with Medicare and eventual acquisition. 
+
+When I graduated with my business degree, my wife became a teacher and I followed suit shortly after, working across elementary, middle, and high school on the Navajo Reservation in Monument Valley. Teaching math, business, and technology is where I discovered coding, and fell hard for it, and even helped bring it as an offering for students into the high school. I absolutely loved my time there and still think about it daily. 
 
 Because of this newfound love of coding, I then trained in Data Science at Lambda School (now BloomTech), building a strong foundation in data wrangling, statistics, experimentation, SQL, machine learning, NLP, neural networks, and other areas. In this time I published multiple articles in Toward Data Science, exploring both technical concepts and real-world applications.
 
