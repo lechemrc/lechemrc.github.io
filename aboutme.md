@@ -10,7 +10,7 @@ I began by studying music and pivoted to Business. I then started working at a s
 
 When I graduated with my business degree, my wife became a teacher and I followed suit shortly after, working across elementary, middle, and high school on the Navajo Reservation in Monument Valley. Teaching math, business, and technology is where I discovered coding, and fell hard for it, and even helped bring it as an offering for students into the high school. I absolutely loved my time there and still think about it daily. 
 
-Because of this newfound love of coding, I then trained in Data Science at Lambda School (now BloomTech), building a strong foundation in data wrangling, statistics, experimentation, SQL, machine learning, NLP, neural networks, and other areas. In this time I published multiple articles in Toward Data Science, exploring both technical concepts and real-world applications.
+Because of this newfound love of coding, I then trained in Data Science at Lambda School (now the Bloom Institute of Technology), building a strong foundation in data wrangling, statistics, experimentation, SQL, machine learning, NLP, neural networks, and other areas. In this time I published multiple articles in Toward Data Science, exploring both technical concepts and real-world applications.
 
 I became a Data Scientist in a great firm in Kansas City, where I started initially and then went full remote, and now I live and work from Tucson, AZ. Outside of work, you'll find me making music of some sort. Even though I left music as a study, I’m a lifelong musician, producer, and composer. My projects have reached millions of listeners and have been featured by outlets including MTV, NPR, BBC, The Wall Street Journal, Netflix, and Apple. 
 
