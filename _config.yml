@@ -23,14 +23,14 @@ navbar-links:
   About Me: "aboutme"
   Portfolio:
     - Github: "https://github.com/lechemrc"
-    - Toward Data Science - K Means: "https://towardsdatascience.com/k-means-without-libraries-python-feb3572e2eef#8646-25d4070add68"
-    - Toward Data Science - Pitchfork: "https://towardsdatascience.com/can-we-predict-the-outcome-of-pitchfork-music-reviews-3b084d90c18f"
-    - Airbnb Host Pricing: "https://build-week-airbnb-optimal-price.github.io/Marketing-page/index.html"
-    - Song Surfer: "https://front-end-six-green.now.sh/"
-    - Epicentral.info: "http://epicentral.info/"
+    - Toward Data Science - K Means: "https://medium.com/data-science/k-means-without-libraries-python-feb3572e2eef"
+    - Toward Data Science - Pitchfork: "https://medium.com/data-science/can-we-predict-the-outcome-of-pitchfork-music-reviews-3b084d90c18f"
+    - Math-o-matic: "to be determined"
     
   Other Resources:
-    - My music: "https://lanarchiste.bandcamp.com"
+    - Music - Lanarchiste:  "https://lanarchiste.bandcamp.com"
+    - Music - VVE: "https://music.apple.com/us/album/less-is-now-official-documentary-soundtrack/1544903342"
+    - Music - April is Missing: "https://music.apple.com/us/album/april-is-missing-original-motion-picture-soundtrack/1745848769"
 
 # Image to show in the navigation bar - image must be a square (width = height)
 # Remove this parameter if you don't want an image in the navbar
