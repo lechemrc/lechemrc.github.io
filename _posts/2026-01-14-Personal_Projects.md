@@ -24,9 +24,12 @@ Over the years since I've had that thought, I've tried building it several times
 
 And what's neat about it? I have a working demo that is robust, complex, and has really neat features that could potentially put this in the hands of students and teachers relatively soon. 
 
-Take a look and see what you think!
+Take a look at these short demonstration clips and see what you think!
 
-![Short demo clip](/img/login gif.gif)</br>
+<!-- ![Short demo clip](/img/login gif.gif) -->
+<video autoplay muted loop playsinline style="width:100%; margin: 1em 0;">
+  <source src="/img/login to workbook.mp4" type="video/mp4">
+</video>
 
 
-<sup><sub>photo credit: Yaroslov Shuraev</sup></sub>
+<sup><sub>photo credit: Yaroslov Shuraev</sub></sup>
