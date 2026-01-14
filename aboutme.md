@@ -12,7 +12,6 @@ When I graduated with my business degree, my wife became a teacher and I followe
 
 Because of this newfound love of coding, I then trained in Data Science at Lambda School (now the Bloom Institute of Technology), building a strong foundation in data wrangling, statistics, experimentation, SQL, machine learning, NLP, neural networks, and other areas. In this time I published multiple articles in Toward Data Science, exploring both technical concepts and real-world applications.
 
-I became a Data Scientist in a great firm in Kansas City, where I started initially and then went full remote, and now I live and work from Tucson, AZ. Outside of work, you'll find me making music of some sort. Even though I left music as a study, I’m a lifelong musician, producer, and composer. My projects have reached millions of listeners and have been featured by outlets including MTV, NPR, BBC, The Wall Street Journal, Netflix, and Apple. 
+I became a Data Scientist for a great firm in Kansas City, where I started initially and then went full remote, and now I live and work from Tucson, AZ. Outside of work, you'll find me making music of some sort. Even though I left music as a study, I’m a lifelong musician, producer, and composer. My projects have reached millions of listeners and have been featured by outlets including MTV, NPR, BBC, The Wall Street Journal, Netflix, and Apple. 
 
-You’ll find me outdoors with my family—hiking, camping, backpacking, or trail running (a major passion of mine currently).
-Above all, my family is my why. Everything I build—whether in data, education, or music—is rooted in creating something meaningful for those that need it the most.
+In general, you’ll find me outdoors with my family... hiking, camping, backpacking, or trail running (a major passion of mine currently). Above all, my family is my why. Everything I build, whether in data, education, or music, is rooted in creating something meaningful for those that need it the most.
