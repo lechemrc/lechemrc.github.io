@@ -1,3 +1,5 @@
+site-css:
+  - /assets/css/custom-styles.css
 # --- General options --- #
 
 # Name of website
