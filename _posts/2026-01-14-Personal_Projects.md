@@ -24,7 +24,7 @@ Over the years since I've had that thought, I've tried building it several times
 
 This project combines machine learning with responsive touch canvas writing, with a strong data backend that tracks progress, common  mistakes, etc. There's also student/teacher heirarchy and interactive hints that are connected both to a system I built and an LLM to parse more natural outputs. There's still a TON of work to be done on it, but I'm really happy with where it's going!
 
-And what's neat about all this work I've done so far? I have a working demo that is robust, complex (even if simplistic on the surface), and has really neat features that could potentially put this in the hands of students and teachers relatively soon. 
+And what's neat about all this work I've done so far? I have a working demo that is robust, complex (even if simplistic on the surface), and has really neat features that could potentially put this in the hands of students and teachers relatively soon. It's got it's quirks that I'm working out, but I'm proud of this. 
 
 Take a look at these short demonstration clips and see what you think!
 
