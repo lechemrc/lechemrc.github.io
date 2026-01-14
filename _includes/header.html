@@ -1,21 +1,22 @@
 <!-- TODO this file has become a mess, refactor it -->
 
-{% if page.bigimg or page.title %}
+{% if page.bigimg and page.bigimg.size > 0 %}
 
 {% if page.bigimg %}
-  <div id="header-big-imgs" data-num-img={% if page.bigimg.first %}{{ page.bigimg.size }}{% else %}1{% endif %}
-    {% for bigimg in page.bigimg %}
-	  {% assign imgnum = forloop.index %}
-	  {% for imginfo in bigimg %}
-	    {% if imginfo[0] %}
-		  data-img-src-{{ imgnum }}="{{ imginfo[0] | relative_url }}"
-		  data-img-desc-{{ imgnum }}="{{ imginfo[1] }}"
-		{% else %}
-		  data-img-src-{{ imgnum }}="{{ imginfo | relative_url }}"
-		{% endif %}
-	  {% endfor %}
-    {% endfor %}
-  ></div>
+<div id="header-big-imgs" 
+     data-num-img="{% if page.bigimg.first %}{{ page.bigimg.size }}{% else %}1{% endif %}"
+     {% for bigimg in page.bigimg %}
+       {% assign imgnum = forloop.index %}
+       {% for imginfo in bigimg %}
+         {% if imginfo[0] %}
+           data-img-src-{{ imgnum }}="{{ imginfo[0] | relative_url }}"
+           data-img-desc-{{ imgnum }}="{{ imginfo[1] }}"
+         {% else %}
+           data-img-src-{{ imgnum }}="{{ imginfo | relative_url }}"
+         {% endif %}
+       {% endfor %}
+     {% endfor %}
+></div>
 {% endif %}
 
 <header class="header-section {% if page.bigimg %}has-img{% endif %}">
