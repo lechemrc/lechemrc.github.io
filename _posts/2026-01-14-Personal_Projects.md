@@ -26,16 +26,33 @@ And what's neat about it? I have a working demo that is robust, complex, and has
 
 Take a look at these short demonstration clips and see what you think!
 
-Note: if you need the video bigger, just right click and open in a new tab.
+<i>Note: if you need the video bigger, just right click and open in a new tab.</i>
 
 <!-- ![Short demo clip](/img/login gif.gif) -->
-<!-- <video autoplay muted loop playsinline style="width:150%; margin: 1em 0;">
+
+Logging in: 
+<video autoplay muted loop playsinline style="width:100%; margin: 1em 0;">
   <source src="/img/login to workbook.mp4" type="video/mp4">
-</video> -->
+</video>
 
-<img src="/img/login gif.gif"
-     alt="Login Clip"
-     style="width:100%; height:auto; margin:1.5em 0;" />
+Handwriting math problems with live preview:
+<video autoplay muted loop playsinline style="width:100%; margin: 1em 0;">
+  <source src="/img/handwriting live preview.mp4" type="video/mp4">
+</video>
 
+Getting a correct answer:
+<video autoplay muted loop playsinline style="width:100%; margin: 1em 0;">
+  <source src="/img/correct short.mp4" type="video/mp4">
+</video>
+
+Erasing previous work: 
+<video autoplay muted loop playsinline style="width:100%; margin: 1em 0;">
+  <source src="/img/erasing.mp4" type="video/mp4">
+</video>
+
+Getting a hint on a new problem: 
+<video autoplay muted loop playsinline style="width:100%; margin: 1em 0;">
+  <source src="/img/hint.mp4" type="video/mp4">
+</video>
 
 <sup><sub>photo credit: Yaroslov Shuraev</sub></sup>
