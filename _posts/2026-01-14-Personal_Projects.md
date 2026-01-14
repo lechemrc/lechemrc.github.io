@@ -22,7 +22,9 @@ What if you had a worksheet that gave you back deep analytical data on the stude
 
 Over the years since I've had that thought, I've tried building it several times and it got very complex very fast. That, and the data science and machine learning just didn't quite have the capabilities I wanted without significant resources necessary to build it. Fast forward to now, and I’m using a carefully guided agentic AI setup (currently Kiro) to methodically work through what this build requires, what needs to be done, how the pieces fit together, and how it should ultimately be built. Paired with my now depth of experience in coding and machine learning, this has given me a strong edge in developing this software, which I’m calling "Math-o-matic."
 
-And what's neat about it? I have a working demo that is robust, complex, and has really neat features that could potentially put this in the hands of students and teachers relatively soon. 
+This project combines machine learning with responsive touch canvas writing, with a strong data backend that tracks progress, common  mistakes, etc. There's also student/teacher heirarchy and interactive hints that are connected both to a system I built and an LLM to parse more natural outputs. There's still a TON of work to be done on it, but I'm really happy with where it's going!
+
+And what's neat about all this work I've done so far? I have a working demo that is robust, complex (even if simplistic on the surface), and has really neat features that could potentially put this in the hands of students and teachers relatively soon. 
 
 Take a look at these short demonstration clips and see what you think!
 
