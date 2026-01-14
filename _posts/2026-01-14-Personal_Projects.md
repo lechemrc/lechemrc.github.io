@@ -26,10 +26,16 @@ And what's neat about it? I have a working demo that is robust, complex, and has
 
 Take a look at these short demonstration clips and see what you think!
 
+Note: if you need the video bigger, just right click and open in a new tab.
+
 <!-- ![Short demo clip](/img/login gif.gif) -->
-<video autoplay muted loop playsinline style="width:100%; margin: 1em 0;">
+<!-- <video autoplay muted loop playsinline style="width:150%; margin: 1em 0;">
   <source src="/img/login to workbook.mp4" type="video/mp4">
-</video>
+</video> -->
+
+<img src="/img/login gif.gif"
+     alt="Login Clip"
+     style="width:100%; height:auto; margin:1.5em 0;" />
 
 
 <sup><sub>photo credit: Yaroslov Shuraev</sub></sup>
