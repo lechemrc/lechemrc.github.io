@@ -11,10 +11,11 @@ Teaching might be the hardest job I've ever done mentally. And one of the worst-
 
 I first encountered the job when my wife was offered a position as a Kindergarten Teacher on the Navajo Reservation in Monument Valley, UT. We jumped at the opportunity. We both loved spending time in the red rocks of Southern Utah. What we didn't know was how beautiful it actually was. I might have 10,000 pictures on a hard drive from just four years of living there, but that's an aside. It was the people that were truly beautiful. We fell in love immediately with the community and have life-long friends from our experience there. It made so much an impact on us that I started helping in classrooms after only a month or two and became a teacher the following year. 
 
-I started in fourth grade, then moved over to the combined high school and middle school the following year. There I started teaching remedial math (for those that needed extra help), business, and technology. What I discovered was two things: 
+I started in fourth grade, then moved over to the combined high school and middle school the following year. There I started teaching remedial math (for those that needed extra help), business, and technology. What I discovered was: 
 
-- The students needed a lot of help with math and all the software we used was clunky, not user friendly, and seemed to take more time than it was worth. 
-- I loved coding and found a new passion for it. 
+- Teachers need more help and often times software made the job harder, ironically. 
+- The students needed a lot of help with math and all the software we used was clunky, not user friendly, and seemed to take more time than it was worth. It wasn't just unique to the teachers.
+- Lastly, I figured out I loved coding and wanted to persue it further. 
 
 Immediately, I began thinking about software from a design perspective, but also from a teacher perspective. There wasn't really anything I encountered that was user friendly or helpful for actually gathering good data on students, other than some online tools that tracked progress. However, what those lacked was a good math interface. Typing out math, especially when fractions, powers, variables, what have you, are involved, it's not fun nor is it intuitive. This is what inspired my idea. 
 
