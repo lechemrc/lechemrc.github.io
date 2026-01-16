@@ -5,7 +5,11 @@ image: /img/student_computer.jpg
 bigimg: /img/student_computer.jpg
 ---
 
-There's something about teaching that changed me. 
+There's something about teaching that changed me and drove me to where I am now, trying to build things that matter. 
+
+<video autoplay muted loop playsinline style="width:100%; margin: 1em 0;">
+  <source src="/img/handwriting live preview.mp4" type="video/mp4">
+</video>
 
 Teaching might be the hardest job I've ever done mentally. And one of the worst-paid jobs for the most amount of work. This a talking point today in the US that opens veritable barrels of worms, if that was even a phrase. However, it's one of the most rewarding things I've ever done in my life. 
 
